@@ -3,6 +3,7 @@
 
 ### Example games
 Game 1: https://scratch.mit.edu/projects/1002254974/
+
 Game 2: https://scratch.mit.edu/projects/1004691810/
 
 ### How does it work?
